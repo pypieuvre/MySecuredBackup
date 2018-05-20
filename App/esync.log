@@ -1,0 +1,17 @@
+[2018-05-20 13:27:03.347091] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:27:36.756797] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:32:53.281079] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:34:47.868196] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:39:57.442513] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:40:22.741080] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:42:32.588719] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:43:18.724056] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:43:18.724056] INFO: MySecuredBackup: scanning c:
+[2018-05-20 13:43:18.724056] INFO: MySecuredBackup: digest: 21a750eae1512de39a8a9026dd69942bae9509497605c7fcc11b53131073f11e <- c:MySecuredBackup.py
+[2018-05-20 13:49:24.301306] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:51:19.801859] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:51:19.801859] INFO: MySecuredBackup: scanning c:
+[2018-05-20 13:51:19.833116] INFO: MySecuredBackup: scanning dlkd
+[2018-05-20 13:52:52.408904] DEBUG: __main__: loaded config: <module 'MySecuredBackupConfig' from 'C:\\Users\\Sophai\\Documents\\GitHub\\MySecuredBackup\\App\\MySecuredBackupConfig.py'>
+[2018-05-20 13:52:52.408904] INFO: MySecuredBackup: scanning c:
+[2018-05-20 13:52:52.440171] INFO: MySecuredBackup: scanning dlkd
